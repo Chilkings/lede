@@ -153,11 +153,11 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           # CONFIG_PACKAGE_luci-app-wireguard=y
           CONFIG_PACKAGE_luci-app-wrtbwmon=y
-		  CONFIG_PACKAGE_UnblockNeteaseMusicGo=y
-		  CONFIG_PACKAGE_trojan=y
-		  CONFIG_PACKAGE_autosamba=y
-		  CONFIG_PACKAGE_automount=y
-		  CONFIG_PACKAGE_luci-app-nps=y
+          CONFIG_PACKAGE_UnblockNeteaseMusicGo=y
+          CONFIG_PACKAGE_trojan=y
+          CONFIG_PACKAGE_autosamba=y
+          CONFIG_PACKAGE_automount=y
+          CONFIG_PACKAGE_luci-app-nps=y
           EOF
           # LuCI主题:
           cat >> .config <<EOF
